@@ -1,0 +1,20 @@
+title: Hyun-Tae Choi
+description: Computer Vision & Image Segmentation
+site_title: 'profile - Hyun-Tae Choi'
+
+# Build settings
+markdown: kramdown
+exclude: [vendor/ruby]
+
+# Personalization
+github_username: hytae1993
+blog_url: https://hytae1993.github.io
+email: hytae1993@gmail.com
+organization: https://image.cau.ac.kr
+original: https://github.com/abhn/portfolio
+
+# absolute or relative
+profile_picture: assets/images/pp.jpg
+
+# Google Analytics ID
+google_analytics: 
