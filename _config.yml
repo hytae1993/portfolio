@@ -8,7 +8,7 @@ exclude: [vendor/ruby]
 
 # Personalization
 github_username: hytae1993
-blog_url: https://hytae1993.github.io
+blog_url: https://hytae1993.github.io/blog
 email: hytae1993@gmail.com
 organization: https://image.cau.ac.kr
 original: https://github.com/abhn/portfolio
